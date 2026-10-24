@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "AM",
-    "Version":  "1.2.2",
-    "DownloadUrl":  "https://github.com/curtner04/app-management-downloads/releases/download/app-management-1.2.2-de4bf416c14140b4/AM-Setup.exe",
-    "SHA256":  "de4bf416c14140b41b6e6a21e7618c98dde252b7d566041a99fc13fb4e6cea2c",
-    "Bytes":  3615745
+    "Version":  "1.2.3",
+    "DownloadUrl":  "https://github.com/curtner04/app-management-downloads/releases/download/app-management-1.2.3-cf05a5946023cc0a/AM-Setup.exe",
+    "SHA256":  "cf05a5946023cc0abf94759054a7d02da09fb26fc78e5bbd6a4610cc69f813f1",
+    "Bytes":  3618506
 }
